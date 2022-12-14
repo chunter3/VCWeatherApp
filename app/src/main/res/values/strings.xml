@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VCWeatherApp</string>
+    <string name="toggle_units">toggle units</string>
+    <string name="show_daily_forecast">show daily forecast</string>
+    <string name="change_location">change location</string>
+    <string name="main_weather_icon">Main weather icon</string>
+    <string name="icon_for_48_hour_daily_weather">Icon for 48 hour daily weather</string>
+    <string name="has_net">Internet connection</string>
+    <string name="no_net">No internet connection</string>
+    <string name="daily_weather_icon">daily weather icon</string>
+    <string name="morning">Morning</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="evening">Evening</string>
+    <string name="night">Night</string>
+    <string name="_11pm">11pm</string>
+    <string name="_5pm">5pm</string>
+    <string name="_1pm">1pm</string>
+    <string name="_8am">8am</string>
+</resources>
